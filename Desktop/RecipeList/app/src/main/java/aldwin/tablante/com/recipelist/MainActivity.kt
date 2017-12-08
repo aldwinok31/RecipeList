@@ -23,7 +23,7 @@ for(i in 0..title_list.size-1) {
     dataDishes.add(Dish(title_list[i], description_list[i]))
 
 }
-        adapter = RecipeRecycler(dataDishes)
+        adapter = RecipeRecycler(dataDishes,applicationContext)
 var layout_manager =LinearLayoutManager(applicationContext)
         recyclerView.layoutManager = layout_manager
         recyclerView.setHasFixedSize(true)

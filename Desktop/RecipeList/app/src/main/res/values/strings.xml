@@ -1,3 +1,67 @@
 <resources>
     <string name="app_name">RecipeList</string>
+    <string name="procedure1">Preheat oven to 200 C / Fan 180 C / Gas mark 5.
+        Place the fish in an oven-proof dish and cover with the milk. Bake in the oven uncovered for 30 minutes or until the fish is cooked through.
+        Peel and chop the potatoes, and boil with a pinch of salt until soft.
+        When the fish is done drain the milk into a jug and put aside.
+        Flake the fish with a fork and leave in the dish.
+        Once potatoes are done, drain, then add 30g of the butter and a splash of the reserved milk and mash.
+        In another saucepan melt the remaining 20g of butter on a medium heat and slowly add the flour stirring constantly until you get a smooth paste.
+        Add the remaining milk a little bit at a time, stirring constantly, until you get a sauce-like consistency.
+        Add the parsley and stir well. Cook for 5 minutes, constantly stirring.
+        Add the sauce to the flaked fish and mix well. Top with the mashed potato and spread evenly.
+        Sprinkle the grated cheese evenly over the potato topping.
+        Place back in the oven for 30-40 minutes, or until the cheese is bubbling and slightly golden brown.
+        Take out of the oven and leave to cool for 5 to 10 minutes.</string>
+    <string name="recipe1">500g white fish (haddock, cod, plaice, etc.) \n 600ml milk 6 to 8 \n large potatoes pinch salt 50g butter 1 1/2 \n tablespoons plain flour \n 2 tablespoons chopped parsley 100g grated cheese</string>
+    <string name="procedure2">1 Prep all of the salad ingredients and toss them together in a large bowl.
+        2 Prepare the chicken salad dressing in a separate smaller bowl.
+        Mix together the mayonnaise, preserves, and lemon juice.
+        Taste for the proper balance of sweetness and acidity.
+        The salad dressing should not be too sweet nor too sour.
+        Add more preserves or lemon juice until you have reached the balance you want.
+        Add salt and pepper to taste.
+        3 Gently stir the dressing in with the chicken salad ingredients. Taste and add more salt and pepper if needed.</string>
+    <string name="recipe2">3/4 lb (2-3 cups) of cooked chicken meat*, coarsely chopped \n
+2 stalks celery, chopped \n
+1/2 red bell pepper, seeded and chopped \n
+4-6 green olives, pitted and minced \n
+1/4 cup of chopped red onion \n
+1/2 to a whole apple, cored and  \n
+1/3 head of iceberg head lettuce, sliced and choppped.</string>
+
+
+
+    <string name="recipe3">½ lb. fresh flat miki noodles \n
+10 ounces boneless chicken breast, sliced into thin pieces \n
+1 Knorr Chicken Cube \n
+½ medium cabbage, chopped \n
+1 cup chopped carrots \n
+½ cup chopped scallions \n
+1 medium yellow onion, cubed \n
+3 cloves garlic, crushed \n
+1 tablespoon cornstarch \n
+1 egg \n
+6 to 7 cups water \n
+1 teaspoon salt \n
+¼ teaspoon ground black pepper \n
+3 tablespoons cooking oil
+
+    </string>
+
+    <string name="procedure3">
+Heat oil in a cooking pot. \n
+Saute garlic, onion, and carrots. \n
+Add the sliced chicken. Cook until the chicken turns light brown.\n
+Pour the water into the pot. Let boil.\n
+Add Knorr chicken cube. Stir. Cover the pot. Cook the chicken between low to medium heat for 15 minutes.\n
+Add cabbage and miki noodles. Cook for 8 to 10 minutes.\n
+Add scallions. Stir.\n
+Pour the egg. Continuously stir to prevent the egg from forming. \n
+Add ¼ cup water to cornstarch and stir to mix. Pour it into the pot. Stir until the soup thickens. \n
+Add salt and ground black pepper. Cook for 2 minutes. \n
+Transfer to a serving bowl. Serve. \n
+Share and enjoy!
+
+    </string>
 </resources>
