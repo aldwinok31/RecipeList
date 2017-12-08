@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">RecipeList</string>
-    <string name="procedure1">Preheat oven to 200 C / Fan 180 C / Gas mark 5.
+    <string name="procedure1">
+        Procedure: \n
+        Preheat oven to 200 C / Fan 180 C / Gas mark 5.
         Place the fish in an oven-proof dish and cover with the milk. Bake in the oven uncovered for 30 minutes or until the fish is cooked through.
         Peel and chop the potatoes, and boil with a pinch of salt until soft.
         When the fish is done drain the milk into a jug and put aside.
@@ -13,8 +15,12 @@
         Sprinkle the grated cheese evenly over the potato topping.
         Place back in the oven for 30-40 minutes, or until the cheese is bubbling and slightly golden brown.
         Take out of the oven and leave to cool for 5 to 10 minutes.</string>
-    <string name="recipe1">500g white fish (haddock, cod, plaice, etc.) \n 600ml milk 6 to 8 \n large potatoes pinch salt 50g butter 1 1/2 \n tablespoons plain flour \n 2 tablespoons chopped parsley 100g grated cheese</string>
-    <string name="procedure2">1 Prep all of the salad ingredients and toss them together in a large bowl.
+    <string name="recipe1">
+        Recipe: \n
+        500g white fish (haddock, cod, plaice, etc.) \n 600ml milk 6 to 8 \n large potatoes pinch salt 50g butter 1 1/2 \n tablespoons plain flour \n 2 tablespoons chopped parsley 100g grated cheese</string>
+    <string name="procedure2">
+        Procedure: \n
+        1 Prep all of the salad ingredients and toss them together in a large bowl.
         2 Prepare the chicken salad dressing in a separate smaller bowl.
         Mix together the mayonnaise, preserves, and lemon juice.
         Taste for the proper balance of sweetness and acidity.
@@ -22,7 +28,9 @@
         Add more preserves or lemon juice until you have reached the balance you want.
         Add salt and pepper to taste.
         3 Gently stir the dressing in with the chicken salad ingredients. Taste and add more salt and pepper if needed.</string>
-    <string name="recipe2">3/4 lb (2-3 cups) of cooked chicken meat*, coarsely chopped \n
+    <string name="recipe2">
+         Recipe: \n
+        3/4 lb (2-3 cups) of cooked chicken meat*, coarsely chopped \n
 2 stalks celery, chopped \n
 1/2 red bell pepper, seeded and chopped \n
 4-6 green olives, pitted and minced \n
@@ -32,7 +40,9 @@
 
 
 
-    <string name="recipe3">½ lb. fresh flat miki noodles \n
+    <string name="recipe3">
+         Recipe: \n
+        ½ lb. fresh flat miki noodles \n
 10 ounces boneless chicken breast, sliced into thin pieces \n
 1 Knorr Chicken Cube \n
 ½ medium cabbage, chopped \n
@@ -50,6 +60,7 @@
     </string>
 
     <string name="procedure3">
+        Procedure: \n
 Heat oil in a cooking pot. \n
 Saute garlic, onion, and carrots. \n
 Add the sliced chicken. Cook until the chicken turns light brown.\n
